@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="765"
+   height="990"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="GISFlyer.svg"
+   inkscape:export-filename="./GISMexicoCityFlyer.png"
+   inkscape:export-xdpi="92"
+   inkscape:export-ydpi="92">
+  <defs
+     id="defs4">
+    <filter
+       inkscape:collect="always"
+       id="filter4429"
+       x="-0.037536273"
+       width="1.0750725"
+       y="-0.87960019"
+       height="2.7592004">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="11.106623"
+         id="feGaussianBlur4431" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4429-8"
+       x="-0.037536275"
+       width="1.0750725"
+       y="-0.87960017"
+       height="2.7592003">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="11.106623"
+         id="feGaussianBlur4431-8" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4429-8-4"
+       x="-0.037536275"
+       width="1.0750725"
+       y="-0.87960017"
+       height="2.7592003">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="11.106623"
+         id="feGaussianBlur4431-8-0" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4429-8-2"
+       x="-0.037536275"
+       width="1.0750725"
+       y="-0.87960017"
+       height="2.7592003">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="11.106623"
+         id="feGaussianBlur4431-8-04" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="242.37345"
+     inkscape:cy="468.56491"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Fondo"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="opacity:0.8;display:inline"
+     transform="translate(0,-62.362183)">
+    <image
+       y="62.362183"
+       x="0"
+       id="image3274"
+       xlink:href="GISMexicoCityFlyer.png"
+       height="990.07544"
+       width="765" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Recuadro"
+     style="display:inline"
+     transform="translate(0,-62.362183)">
+    <rect
+       style="fill:#ffffff;fill-opacity:0.49803922;stroke:none"
+       id="rect3281"
+       width="675"
+       height="540"
+       x="45"
+       y="427.3999"
+       rx="30"
+       ry="30" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="URL"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
+       x="81.020508"
+       y="885.93927"
+       id="text4073"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4075"
+         x="81.020508"
+         y="885.93927"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold">http://www.meetup.com/Mexico-City-GIS-SIG-Developers-Users/</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Barrita">
+    <rect
+       style="fill:#f6daa8;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter4429)"
+       id="rect4211"
+       width="710.13696"
+       height="30.304558"
+       x="28.284271"
+       y="285.92368" />
+    <rect
+       style="fill:#f6daa8;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter4429-8)"
+       id="rect4211-0"
+       width="710.13696"
+       height="30.304558"
+       x="134.8555"
+       y="113.1876"
+       transform="matrix(0.34504378,0,0,1,244.67316,-4)" />
+    <rect
+       style="fill:#f6daa8;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter4429-8-4)"
+       id="rect4211-0-8"
+       width="710.13696"
+       height="30.304558"
+       x="134.8555"
+       y="113.1876"
+       transform="matrix(0.15848049,0,0,1,419.91765,83.761442)" />
+    <rect
+       style="fill:#f6daa8;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter4429-8-2)"
+       id="rect4211-0-7"
+       width="710.13696"
+       height="30.304558"
+       x="134.8555"
+       y="113.1876"
+       transform="matrix(0.20611367,0,0,1,542.76886,-7.9390842)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Encabezado"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.98431373;stroke:none;display:inline;font-family:Special Elite;-inkscape-font-specification:Special Elite"
+       x="26.40625"
+       y="314.06491"
+       id="text4051"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4053"
+         x="26.40625"
+         y="314.06491">1ª Reunión de Usuarios GIS México</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Logo"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-size:80px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Special Elite;-inkscape-font-specification:Special Elite Bold"
+       x="493.51831"
+       y="142.14287"
+       id="text4164"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4166"
+         x="493.51831"
+         y="142.14287"
+         style="font-size:80px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Special Elite;-inkscape-font-specification:Special Elite Bold">Mexico City</tspan><tspan
+         sodipodi:role="line"
+         x="493.51831"
+         y="242.14287"
+         id="tspan4168"
+         style="font-size:80px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Special Elite;-inkscape-font-specification:Special Elite Bold">GIS</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Textos"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:0.7;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Purisa;-inkscape-font-specification:Purisa Bold"
+       x="507.60019"
+       y="152.05901"
+       id="text3277"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="507.60019"
+         y="152.05901"
+         id="tspan4159"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;font-family:Purisa;-inkscape-font-specification:Purisa Bold" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Special Elite;-inkscape-font-specification:Special Elite Bold"
+       x="85.496597"
+       y="558.06494"
+       id="text4055"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4057"
+         x="85.496597"
+         y="558.06494">Pláticas:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Special Elite;-inkscape-font-specification:Special Elite Bold"
+       x="107.11769"
+       y="623.77917"
+       id="text4061"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4063"
+         x="107.11769"
+         y="623.77917">1. GIS en el mundo de hoy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Special Elite;-inkscape-font-specification:Special Elite Bold"
+       x="106.47511"
+       y="688.46802"
+       id="text4065"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4067"
+         x="106.47511"
+         y="688.46802">2. Tipos de usuario y áreas de aplicación</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Special Elite;-inkscape-font-specification:Special Elite Bold"
+       x="106.6255"
+       y="760.63635"
+       id="text4069"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4071"
+         x="106.6255"
+         y="760.63635">3. Por confirmar.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Special Elite;-inkscape-font-specification:Special Elite Bold"
+       x="119.8125"
+       y="411.71204"
+       id="text4190"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4192"
+         x="119.8125"
+         y="411.71204">Jueves 3 de diciembre 19:30 hrs.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Special Elite;-inkscape-font-specification:Special Elite Bold"
+       x="382.87744"
+       y="817.72083"
+       id="text4194"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="382.87744"
+         y="817.72083"
+         id="tspan4202"
+         style="font-weight:bold;-inkscape-font-specification:Special Elite Bold">Antes de las pláticas habrá tiempo para networking.</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="Direccion">
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Special Elite;-inkscape-font-specification:Special Elite Bold"
+       x="237.33398"
+       y="455.7308"
+       id="text4413"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4415"
+         x="237.33398"
+         y="455.7308"><tspan
+   style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Special Elite;-inkscape-font-specification:Special Elite Bold"
+   id="tspan4421">Fando y Lis -</tspan> Uxmal #78</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Special Elite;-inkscape-font-specification:Special Elite Bold"
+       x="71.53125"
+       y="486.05569"
+       id="text4417"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4419"
+         x="71.53125"
+         y="486.05569">Entre Morena y Esperanza. Cerca de Metro Etiopía.</tspan></text>
+  </g>
+</svg>
